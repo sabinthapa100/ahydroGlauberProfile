@@ -1,5 +1,4 @@
-# aHydro initial condition visualizer (Version 2)
-
+# aHydro initial condition visualizer
 Author: Sabin Thapa <sthapa3@kent.edu>
 
 This folder contains a small reusable Python package (`src/`) + two notebooks:
